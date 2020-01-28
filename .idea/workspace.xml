@@ -2,12 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70898f3-2c44-4e45-9bf3-9e6eeab5da12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/README.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.code.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.writing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/gradlew.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/complete/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/complete/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/settings.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/complete/src/main/java/com/example/consumingrest/ConsumingRestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/complete/src/main/java/com/vs_prim/consumer/ConsumingRestApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/complete/src/main/java/com/example/consumingrest/Quote.java" beforeDir="false" afterPath="$PROJECT_DIR$/complete/src/main/java/com/vs_prim/consumer/Quote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/complete/src/main/java/com/example/consumingrest/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/complete/src/main/java/com/vs_prim/consumer/Value.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/complete/src/test/java/com/example/consumingrest/ConsumingRestApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/complete/src/test/java/com/vs_prim/consumer/ConsumingRestApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/initializr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/src/main/java/com/example/consumingrest/ConsumingRestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/src/test/java/com/example/consumingrest/ConsumingRestApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/run.sh" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/complete/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +43,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/complete/src/main/java/com/vs_prim/consumer/ConsumingRestApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+            <state relative-caret-position="408">
+              <caret line="79" lean-forward="true" selection-start-line="78" selection-end-line="79" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2144#2145#0" expanded="true" />
+                <element signature="e#2712#2713#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/complete/src/main/java/com/vs_prim/consumer/Primzahlen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="503">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1178#1179#0" expanded="true" />
+                <element signature="e#1202#1203#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -153,7 +193,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,24 +241,24 @@
       <option name="presentableId" value="Default" />
       <updated>1580209996789</updated>
       <workItem from="1580209998007" duration="9389000" />
+      <workItem from="1580225711200" duration="5966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9389000" />
+    <option name="totallyTimeSpent" value="15355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14818764" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.14978679" />
+      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.14978679" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.22643554" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
@@ -233,17 +272,18 @@
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Run" order="13" sideWeight="0.49946696" weight="0.21776815" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.14232409" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Run" order="13" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.14232409" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,14 +303,6 @@
           <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/complete/consuming-rest.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-867" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/complete/mvnw">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/complete/mvnw.cmd">
       <provider selected="true" editor-type-id="text-editor" />
@@ -299,26 +331,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/initializr.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/complete/consuming-rest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/complete/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/complete/src/main/java/com/vs_prim/consumer/Primzahlen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        <state relative-caret-position="503">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#836#845#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
             <element signature="e#1202#1203#0" expanded="true" />
-            <element signature="e#1223#1224#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/complete/src/main/java/com/vs_prim/consumer/ConsumingRestApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        <state relative-caret-position="408">
+          <caret line="79" lean-forward="true" selection-start-line="78" selection-end-line="79" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2144#2145#0" expanded="true" />
+            <element signature="e#2712#2713#0" expanded="true" />
           </folding>
         </state>
       </provider>

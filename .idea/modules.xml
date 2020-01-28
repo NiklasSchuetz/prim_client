@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/complete/consuming-rest.iml" filepath="$PROJECT_DIR$/complete/consuming-rest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/gs-rest-consumer.iml" filepath="$PROJECT_DIR$/.idea/gs-rest-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vs_prim_consumer.iml" filepath="$PROJECT_DIR$/.idea/vs_prim_consumer.iml" />
     </modules>
   </component>
 </project>

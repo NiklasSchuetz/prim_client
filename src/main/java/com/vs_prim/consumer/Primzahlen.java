@@ -52,7 +52,7 @@ public class Primzahlen {
         return list;
     }
 
-    public List<Integer> getIntegerList() {
-        return this.list;
+    public String toString() {
+        return "Liste: "+this.list.toString()+"\nString: "+this.prim_string;
     }
 }
